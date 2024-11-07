@@ -1,5 +1,5 @@
 import java.util.*;  
-class ip_addr_venkatraman {  
+class ip_addr_venkatraman{  
     public static int validip(String strtmp){  
              
              
